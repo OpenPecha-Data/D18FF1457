@@ -385,32 +385,32 @@ annotations:
     reference: ''
     span:
       start: 69930
-      end: 71182
+      end: 71181
     note_ref: 7c4496828fde4e2ebde3e40220de83c5
   b374edf39fea4c0297dcc2fc3a85d149:
     imgnum: 203
     reference: ''
     span:
-      start: 71184
-      end: 72809
+      start: 71183
+      end: 72808
   6baa99bc30d44a5f8733a3ea7e2050a0:
     imgnum: 204
     reference: ''
     span:
-      start: 72811
-      end: 74646
+      start: 72810
+      end: 74645
   95da9486d40f450bbac957b106bc5cf3:
     imgnum: 205
     reference: ''
     span:
-      start: 74648
-      end: 76407
+      start: 74647
+      end: 76406
   7c4496828fde4e2ebde3e40220de83c5:
     imgnum: 206
     reference: ''
     span:
-      start: 76409
-      end: 78005
+      start: 76408
+      end: 78004
 local_ids:
   7182489e6d9b4c8286d686cb005a05de: 200000
   63258f641908451aa81f45fc1bbbeb91: 200001
